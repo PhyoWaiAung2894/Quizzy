@@ -16,3 +16,6 @@ Retake or Exit: Option to retake quizzes or exit to the main screen.
 
 <img src="https://github.com/PhyoWaiAung2894/Quizzy/assets/44761679/ba4550f5-62b2-4d7f-b827-e5c0145398d0" alt="Simulator Screenshot - iPhone SE (3rd generation) -1" width="300">
 
+<img src="https://github.com/PhyoWaiAung2894/Quizzy/assets/44761679/0a68565d-68f1-4cd2-b2ec-50a6bd22f020" alt="Simulator Screenshot - iPhone SE (3rd generation)8" width="300">
+
+
